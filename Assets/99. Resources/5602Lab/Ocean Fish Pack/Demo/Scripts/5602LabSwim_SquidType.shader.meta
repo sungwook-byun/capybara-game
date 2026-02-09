@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4603117d0cb6e4f48a98c2724b84f64a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314209
+  packageName: 2D Ocean Fish Pack
+  packageVersion: 1.1
+  assetPath: Assets/99. Resources/5602Lab/Ocean Fish Pack/Demo/Scripts/5602LabSwim_SquidType.shader
+  uploadId: 753826

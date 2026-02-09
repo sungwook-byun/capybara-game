@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 492ffa571b7897a42860f0ce35fc3478
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324644
+  packageName: Capybara_Animated_Stylized
+  packageVersion: 1.0
+  assetPath: Assets/capybara/Animations/IDLE.anim
+  uploadId: 771730

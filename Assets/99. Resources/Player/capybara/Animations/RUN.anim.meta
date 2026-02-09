@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ca25fb83ff086d946b54a0a4198eb510
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324644
+  packageName: Capybara_Animated_Stylized
+  packageVersion: 1.0
+  assetPath: Assets/capybara/Animations/RUN.anim
+  uploadId: 771730

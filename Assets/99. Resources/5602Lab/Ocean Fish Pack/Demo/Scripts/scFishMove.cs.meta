@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 56a0bb096cd845442b76b83eea976470
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314209
+  packageName: 2D Ocean Fish Pack
+  packageVersion: 1.1
+  assetPath: Assets/99. Resources/5602Lab/Ocean Fish Pack/Demo/Scripts/scFishMove.cs
+  uploadId: 753826

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad448798e26ef95419a74e4d185e8ac6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324644
+  packageName: Capybara_Animated_Stylized
+  packageVersion: 1.0
+  assetPath: Assets/capybara/Animations/SWIM.anim
+  uploadId: 771730

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47ab6e16e24ef404f880e689007df72f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324644
+  packageName: Capybara_Animated_Stylized
+  packageVersion: 1.0
+  assetPath: Assets/capybara/Animations/JUMP.anim
+  uploadId: 771730

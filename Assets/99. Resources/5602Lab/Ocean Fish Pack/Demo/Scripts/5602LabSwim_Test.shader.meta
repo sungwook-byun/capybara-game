@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 043a735c9f484154597c00783207f1a1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 314209
+  packageName: 2D Ocean Fish Pack
+  packageVersion: 1.1
+  assetPath: Assets/99. Resources/5602Lab/Ocean Fish Pack/Demo/Scripts/5602LabSwim_Test.shader
+  uploadId: 753826

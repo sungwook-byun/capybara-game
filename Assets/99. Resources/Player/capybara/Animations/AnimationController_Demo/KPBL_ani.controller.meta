@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d25ed4820aee2d748b192dde6359314f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 324644
+  packageName: Capybara_Animated_Stylized
+  packageVersion: 1.0
+  assetPath: Assets/capybara/Animations/AnimationController_Demo/KPBL_ani.controller
+  uploadId: 771730

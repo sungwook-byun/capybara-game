@@ -1,0 +1,21 @@
+# Unity generated
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+
+# IDE
+.vs/
+.idea/
+.vtmp/
+
+# Builds
+Build/
+build/
+webgl/
+ait-build/
+
+# OS
+.DS_Store
+Thumbs.db
